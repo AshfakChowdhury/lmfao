@@ -1,0 +1,22 @@
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\bin\Debug\Proj 1.exe.config
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\bin\Debug\Proj 1.exe
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\bin\Debug\Proj 1.pdb
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.csproj.AssemblyReference.cache
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj_1.Properties.Resources.resources
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.csproj.GenerateResource.cache
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.csproj.CoreCompileInputs.cache
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.exe
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.pdb
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj_1.DisplayGraphForm.resources
+C:\Users\rachi\Desktop\Proj 2\Proj 1\Proj 1\Proj 1\obj\Debug\Proj_1.FormEntry.resources
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\bin\Debug\Proj 1.exe.config
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\bin\Debug\Proj 1.exe
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\bin\Debug\Proj 1.pdb
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.csproj.AssemblyReference.cache
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj_1.DisplayGraphForm.resources
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj_1.FormEntry.resources
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj_1.Properties.Resources.resources
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.csproj.GenerateResource.cache
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.csproj.CoreCompileInputs.cache
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.exe
+C:\Users\rachi\Desktop\gg\Proj 1\Proj 1\Proj 1\obj\Debug\Proj 1.pdb

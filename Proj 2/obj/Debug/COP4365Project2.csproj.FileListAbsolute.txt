@@ -1,0 +1,22 @@
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\bin\Debug\Proj 1.exe.config
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\bin\Debug\Proj 1.exe
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\bin\Debug\Proj 1.pdb
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\COP4365Project2.csproj.AssemblyReference.cache
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\Proj_1.ChartDisplayForm.resources
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\Proj_1.FormEntry.resources
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\Proj_1.Properties.Resources.resources
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\COP4365Project2.csproj.GenerateResource.cache
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\COP4365Project2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\Proj 1.exe
+C:\Users\TEMP\OneDrive - University of South Florida\Desktop\USF College\Spring 2024\Software System Development\Projects (Deepey)\Project 2\Proj 1\Proj 1\obj\Debug\Proj 1.pdb
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\bin\Debug\Proj 1.exe.config
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\bin\Debug\Proj 1.exe
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\bin\Debug\Proj 1.pdb
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\COP4365Project2.csproj.AssemblyReference.cache
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\Project_2.ChartDisplayForm.resources
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\Project_2.Form1.resources
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\Proj_1.Properties.Resources.resources
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\COP4365Project2.csproj.GenerateResource.cache
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\COP4365Project2.csproj.CoreCompileInputs.cache
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\Proj 1.exe
+C:\Users\ashfa\Downloads\project 2 anil\Proj 2\obj\Debug\Proj 1.pdb
